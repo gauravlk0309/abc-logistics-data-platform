@@ -1,0 +1,16 @@
+warehouse_id,warehouse_name,city,state,country,region,latitude,longitude,capacity_sqft,manager_name,operational_since
+WH001,Chennai Distribution Center 1,Chennai,TN,India,North,-20.004196,-57.917619,470907,Matthew Grant,2017-01-17
+WH002,Singapore Distribution Center 2,Singapore,SG,Singapore,West,-29.462472,76.996473,449312,Daniel Hall,2017-11-05
+WH003,Columbus Distribution Center 3,Columbus,OH,USA,South,-53.043655,88.748920,244356,James Walters,2019-10-17
+WH004,Columbus Distribution Center 4,Columbus,OH,USA,West,46.968372,-24.501031,73968,Michael Terry MD,2016-12-12
+WH005,Rotterdam Distribution Center 5,Rotterdam,ZH,Netherlands,South,68.287976,-160.669648,438629,Kevin Smith,2022-03-29
+WH006,Atlanta Distribution Center 6,Atlanta,GA,USA,North,66.117556,17.631971,186720,Sandra Sanders,2017-11-04
+WH007,Delhi Distribution Center 7,Delhi,DL,India,Central,-88.027016,156.983020,353637,Diana Hawkins,2020-09-17
+WH008,Singapore Distribution Center 8,Singapore,SG,Singapore,West,-47.087017,-71.774386,204765,Dawn Gonzalez,2023-10-23
+WH009,Atlanta Distribution Center 9,Atlanta,GA,USA,South,15.396470,-116.022349,222944,Jocelyn Griffin,2024-05-14
+WH010,Newark Distribution Center 10,Newark,NJ,USA,West,47.386636,37.803602,348733,Brian Hughes,2017-06-24
+WH011,Newark Distribution Center 11,Newark,NJ,USA,West,-34.814182,-72.549242,338695,Nancy Evans,2022-02-22
+WH012,Hamburg Distribution Center 12,Hamburg,HH,Germany,East,-32.462892,138.503054,184913,Heather Brown,2021-08-20
+WH013,Chennai Distribution Center 13,Chennai,TN,India,West,62.161724,-44.529978,291607,Alexander Smith,2023-04-07
+WH014,Atlanta Distribution Center 14,Atlanta,GA,USA,East,-0.360806,-69.215237,138743,Dr. Nathan Ellis MD,2022-08-28
+WH015,Atlanta Distribution Center 15,Atlanta,GA,USA,Central,41.984952,77.792298,306018,Dominique Hatfield,2023-06-27

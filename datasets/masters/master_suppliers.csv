@@ -1,0 +1,46 @@
+supplier_id,supplier_name,contact_person,email,phone,city,country,category,onboarded_date,rating
+SUP0001,"Torres, Valdez and Briggs",Timothy Bauer,elizabeth33@hernandez-moore.com,6917217221,Singapore,Singapore,Packaging,2023-06-10,3.0
+SUP0002,"Allen, Olson and Ortiz",Mary Powers,sharon37@johnson.com,9044627765,Singapore,Singapore,Raw Material,2024-05-03,3.9
+SUP0003,"Levy, Henderson and Edwards",Lacey Graves,boothfrank@perry-tucker.com,(402)838-9743,Delhi,India,Packaging,2018-11-24,3.4
+SUP0004,Welch Ltd,Lucas Rogers,webbmadison@harris.net,686-989-9936x079,Newark,USA,Textiles,2018-12-09,2.8
+SUP0005,Smith-Lawrence,Amy Gallegos,mhickman@hall.info,540-939-4640x830,Hamburg,Germany,Textiles,2020-04-19,3.8
+SUP0006,Jordan Inc,Denise Olsen,usmith@french.info,001-738-484-1368,Hamburg,Germany,Electronics,2022-06-11,4.0
+SUP0007,Smith Group,Matthew Potts,garciasarah@scott.biz,(363)325-1448,Rotterdam,Netherlands,Textiles,2025-07-04,4.0
+SUP0008,Farrell Inc,Andrea Townsend,tammy17@martinez-miranda.net,581.679.4151x526,Columbus,USA,Electronics,2023-09-14,4.6
+SUP0009,"Brock, Mcguire and Miller",Charles Martin,timothymiddleton@bell.biz,386-532-3979,Rotterdam,Netherlands,Packaging,2024-06-20,4.5
+SUP0010,Grant-Ellis,Jacob Yoder,chavezadam@smith-beck.com,+1-456-905-7121x9881,Singapore,Singapore,Electronics,2022-02-01,4.8
+SUP0011,"Swanson, Peterson and Weber",Russell Stewart,amanda64@trevino.com,+1-624-862-4561x85174,Rotterdam,Netherlands,Raw Material,2018-10-15,4.2
+SUP0012,Murphy-Joseph,Tara Morrison,coxcody@tate-flores.com,(393)691-3044,Columbus,USA,Raw Material,2024-12-20,3.1
+SUP0013,"Evans, Woodard and Goodwin",Thomas Fisher,joseph02@davis.com,470-575-6814,Dallas,USA,Packaging,2019-03-15,3.4
+SUP0014,Lopez PLC,Ashley Burnett,trobinson@jackson.net,560.284.9378,Atlanta,USA,FMCG,2021-08-20,3.5
+SUP0015,"Estrada, Lee and Rose",Jared Garza,joseph91@fisher.com,(593)242-9291x3203,Rotterdam,Netherlands,Packaging,2023-09-30,3.9
+SUP0016,"Foster, Sanford and Hill",Aaron Clark,greeralexander@peterson.com,(515)456-6847,Mumbai,India,Packaging,2020-01-28,3.7
+SUP0017,Lopez-Wade,Dana Burns,samuel40@ford-brown.com,001-278-943-6142x4426,Delhi,India,Automotive Parts,2024-02-16,4.8
+SUP0018,"Brown, Gibson and Turner",Curtis Shields,rstuart@castillo.com,6377638821,Atlanta,USA,FMCG,2022-04-13,2.9
+SUP0019,"Garcia, Atkins and Black",Jamie Brown,allenjustin@todd.net,+1-798-227-8020x586,Los Angeles,USA,Packaging,2021-12-29,3.0
+SUP0020,Rodriguez LLC,Jessica Horton,brenda69@elliott.com,950.555.7385,Chennai,India,FMCG,2021-08-23,2.6
+SUP0021,"Smith, Jones and Cunningham",Jason Williams,vgutierrez@garcia.info,001-323-633-5104x096,Columbus,USA,Raw Material,2023-02-16,3.7
+SUP0022,Orozco-Davis,Lisa Davis,kylie83@alvarez.net,(507)636-5118,Newark,USA,Textiles,2018-08-18,4.9
+SUP0023,"Bailey, Kelly and Chavez",Alyssa Davis,contrerasjames@young.com,433.224.7073,Delhi,India,Automotive Parts,2019-06-15,3.7
+SUP0024,"Harris, Burton and Beard",Michael Moore,basserik@smith-brooks.net,(361)812-3126,Hamburg,Germany,Textiles,2020-03-25,3.5
+SUP0025,Adams PLC,Stacey Schmidt,olivia29@guerrero.com,+1-974-354-9303x646,Chennai,India,Textiles,2024-09-30,2.9
+SUP0026,Hogan and Sons,Crystal Graves,castroralph@carpenter.net,(383)523-0898,Rotterdam,Netherlands,Raw Material,2022-05-26,4.5
+SUP0027,Morgan PLC,Dean Dunn,bradleyhenry@taylor.com,229.271.6815x72450,Newark,USA,Electronics,2024-02-01,2.6
+SUP0028,"Vazquez, Roy and Sharp",Christopher Harmon,millerjames@gonzales.com,6906255618,Newark,USA,FMCG,2020-06-14,3.2
+SUP0029,Gardner and Sons,Laura Woods,xboyd@hernandez.net,+1-205-267-0867x009,Chennai,India,FMCG,2023-04-06,4.4
+SUP0030,Gray Ltd,Isaiah Black,richardhart@gutierrez.net,255.205.4296,Chennai,India,FMCG,2023-01-01,3.8
+SUP0031,Russell and Sons,Scott Grant,kristin09@benton.com,204-601-6481,Rotterdam,Netherlands,Raw Material,2023-01-02,3.2
+SUP0032,Hayden-Schneider,Kara Gilmore,zacharygray@rice.biz,832-612-6942x894,Delhi,India,Electronics,2019-09-27,3.9
+SUP0033,Suarez Ltd,Nathan Kirk,tlewis@miller-marks.biz,462-655-4026x3558,Chicago,USA,Automotive Parts,2019-12-20,3.6
+SUP0034,"Johnson, Miller and Bennett",Douglas Roberts,ingramjessica@allen-terry.net,(645)227-9050,Newark,USA,Textiles,2025-07-30,2.8
+SUP0035,Allen-Hendricks,Phillip Kelly,brenda16@walker.com,001-397-587-1809x339,Hamburg,Germany,Packaging,2022-01-28,3.2
+SUP0036,Sullivan LLC,Mrs. Jennifer Johnson MD,hullcheryl@crawford.com,386.788.0023x009,Chicago,USA,Textiles,2024-01-29,3.2
+SUP0037,Dunn PLC,Alexis Barker,thomas74@campbell.biz,3936659520,Dallas,USA,Textiles,2022-11-08,4.7
+SUP0038,Pitts Ltd,Donna Ryan,jessemoreno@massey-willis.biz,522.939.9821,Dallas,USA,Packaging,2020-07-20,3.0
+SUP0039,Barnes-Davis,Melissa Mathews,david86@williams.com,476.866.0811,Singapore,Singapore,FMCG,2024-02-02,4.2
+SUP0040,Mcmillan and Sons,Amy Dyer,peter91@hughes.info,253-812-3455,Singapore,Singapore,FMCG,2022-03-11,4.1
+SUP0041,Graham Inc,Dr. Jeff Hoffman,christineriggs@roberts-mccarty.com,548.908.7354,Atlanta,USA,FMCG,2024-08-31,2.8
+SUP0042,"Doyle, Rice and Russell",Matthew Mendez,brownelizabeth@vazquez-smith.com,859.891.4492x07492,Newark,USA,Packaging,2023-12-29,4.5
+SUP0043,"Morton, Kane and Douglas",Maria Malone,hdavis@thomas-bowers.org,(593)425-9140x8499,Rotterdam,Netherlands,Electronics,2024-11-10,3.8
+SUP0044,Lopez and Sons,Charles Costa,delliott@dean-johnson.net,526.717.6072x3483,Rotterdam,Netherlands,FMCG,2023-04-26,2.9
+SUP0045,"Velez, Santos and Roach",Mary Hoffman,hufftina@merritt.com,(799)465-0826,Singapore,Singapore,Electronics,2021-08-31,3.2

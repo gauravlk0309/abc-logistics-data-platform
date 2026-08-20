@@ -1,0 +1,61 @@
+vehicle_id,vehicle_type,registration_number,fuel_type,capacity_kg,manufacture_year,home_warehouse_id,driver_name,driver_license_no,status
+VEH0001,Truck-Large,AB-3191-ND,Diesel,20000,2015,WH014,Theresa Conrad,DL-47692105,Active
+VEH0002,Truck-Small,ER-3365-AP,Diesel,10000,2017,WH014,Randy Roach,DL-42473107,Active
+VEH0003,Truck-Small,UP-2011-DL,Petrol,1000,2018,WH009,Denise Johnson,DL-97123166,In Maintenance
+VEH0004,Van,DA-0076-LA,Diesel,20000,2025,WH011,Amanda Brown,DL-44734043,Idle
+VEH0005,Trailer,KB-3700-JS,CNG,1000,2015,WH009,David Allison Jr.,DL-51957782,Idle
+VEH0006,Trailer,JU-5588-VO,Diesel,1000,2023,WH012,Christopher Morales,DL-75427865,Active
+VEH0007,Refrigerated Truck,IV-6194-WP,Electric,1000,2023,WH014,Paul Hensley,DL-20582958,In Maintenance
+VEH0008,Truck-Large,SZ-2923-FA,Diesel,1000,2023,WH003,Wanda Stephens,DL-81904823,Active
+VEH0009,Truck-Large,UZ-5715-XJ,Electric,5000,2019,WH013,Kelly Weiss,DL-39561372,In Maintenance
+VEH0010,Truck-Small,FJ-3081-ES,Electric,10000,2022,WH010,Dana Sullivan,DL-38130004,Active
+VEH0011,Truck-Large,EQ-1321-CH,Electric,1000,2025,WH014,Hunter Powell,DL-94565346,Active
+VEH0012,Truck-Small,LC-9979-RF,CNG,10000,2021,WH009,Kathryn Bell,DL-47681699,In Maintenance
+VEH0013,Truck-Small,CF-5706-WF,Diesel,2500,2016,WH008,Joshua Miller,DL-17653970,In Maintenance
+VEH0014,Van,NN-5487-AG,Diesel,20000,2015,WH004,Carl Huffman,DL-08718274,Active
+VEH0015,Refrigerated Truck,QL-9680-HS,CNG,5000,2015,WH015,Carrie Hayes,DL-20495612,Active
+VEH0016,Van,PA-1377-YX,Diesel,2500,2020,WH001,Martha Thompson,DL-60423597,Active
+VEH0017,Refrigerated Truck,KI-3711-IV,Petrol,10000,2016,WH005,Lisa Johnson,DL-75608581,Active
+VEH0018,Refrigerated Truck,BJ-6704-SB,Petrol,20000,2021,WH011,Brandon Rich,DL-57683210,Idle
+VEH0019,Van,QM-2192-CQ,CNG,2500,2016,WH009,Jacqueline Baker MD,DL-29618033,Active
+VEH0020,Truck-Small,AX-2426-DG,Diesel,10000,2018,WH014,Ashley Wade,DL-98042537,Active
+VEH0021,Van,EN-3377-GL,CNG,5000,2015,WH011,Mark Weaver,DL-12282178,Active
+VEH0022,Trailer,OW-1923-AO,CNG,2500,2020,WH009,Darin Baker,DL-06056035,In Maintenance
+VEH0023,Trailer,VI-6793-EN,Petrol,20000,2025,WH007,Katrina Russell,DL-23984716,Active
+VEH0024,Refrigerated Truck,JF-9061-TX,Electric,2500,2016,WH002,Martin Wood,DL-64754895,Active
+VEH0025,Truck-Large,YW-4787-SL,CNG,2500,2021,WH006,Tammy Jacobs,DL-92751758,Active
+VEH0026,Truck-Small,OR-8914-RS,Diesel,1000,2019,WH008,Crystal Mcintosh,DL-53935435,Active
+VEH0027,Van,MB-8644-QQ,Diesel,2500,2016,WH003,Louis Buchanan,DL-43588537,In Maintenance
+VEH0028,Trailer,UU-9821-SO,CNG,1000,2015,WH002,Kyle Schultz,DL-52753674,Active
+VEH0029,Refrigerated Truck,JQ-9785-ME,Diesel,20000,2024,WH013,Vincent Li,DL-60134778,Active
+VEH0030,Trailer,AM-9489-RD,Diesel,5000,2021,WH007,Miss Katherine Rodriguez,DL-66512215,Active
+VEH0031,Refrigerated Truck,GJ-0014-IR,Petrol,20000,2023,WH003,Brendan Paul,DL-63090015,In Maintenance
+VEH0032,Truck-Large,PO-9446-ON,Petrol,5000,2019,WH005,Nicole Reilly,DL-53208953,In Maintenance
+VEH0033,Truck-Large,NB-2638-KF,Diesel,2500,2021,WH005,Lisa Dickson,DL-71136337,In Maintenance
+VEH0034,Van,RG-9223-AP,CNG,1000,2020,WH005,Jessica Valencia,DL-67331167,Active
+VEH0035,Trailer,WY-7269-BI,Petrol,10000,2016,WH003,Christine Nunez,DL-68550789,Active
+VEH0036,Truck-Small,XJ-6793-TE,CNG,5000,2024,WH007,Melissa Gray,DL-63355643,Active
+VEH0037,Trailer,EB-4369-RK,Electric,10000,2025,WH010,Michael Chavez,DL-06955607,Active
+VEH0038,Van,BQ-6761-WO,Electric,20000,2018,WH008,Thomas Green,DL-22398983,Active
+VEH0039,Truck-Large,WO-0650-FT,CNG,5000,2019,WH012,Anna Dominguez,DL-04184724,In Maintenance
+VEH0040,Refrigerated Truck,OA-2642-TK,Petrol,5000,2021,WH005,Crystal Davis,DL-09248762,In Maintenance
+VEH0041,Van,TE-3039-EX,Diesel,20000,2018,WH010,Robert White,DL-17852282,Idle
+VEH0042,Truck-Large,XR-3052-GB,Diesel,10000,2018,WH008,Stephanie Long,DL-20722395,Active
+VEH0043,Truck-Small,DL-9473-TH,CNG,10000,2017,WH011,Carla Obrien,DL-01620478,Active
+VEH0044,Truck-Large,UZ-7688-HD,Electric,2500,2021,WH013,Terri Gomez,DL-99648628,In Maintenance
+VEH0045,Truck-Small,EM-7203-XT,CNG,20000,2022,WH010,Tanner Reyes,DL-45057303,In Maintenance
+VEH0046,Refrigerated Truck,YW-6279-VI,CNG,20000,2015,WH013,Elizabeth Sanchez,DL-03747677,Active
+VEH0047,Refrigerated Truck,AD-5372-PJ,Diesel,1000,2018,WH011,Tammy Phillips,DL-05766194,Active
+VEH0048,Truck-Large,CE-5887-EW,Diesel,20000,2025,WH011,Eric Hunter,DL-01284008,In Maintenance
+VEH0049,Van,CZ-3850-VZ,CNG,1000,2015,WH002,Hannah Nguyen,DL-50891776,Active
+VEH0050,Truck-Large,GE-8089-JY,Petrol,10000,2020,WH007,Miguel Simon,DL-42231964,In Maintenance
+VEH0051,Refrigerated Truck,TA-6300-IM,Petrol,5000,2015,WH008,Cory Lloyd,DL-26894301,Active
+VEH0052,Van,YE-2047-OD,CNG,1000,2016,WH014,Carol Chambers,DL-11759574,Active
+VEH0053,Van,OQ-9885-UH,Electric,5000,2022,WH013,Michael Moran,DL-84933067,Active
+VEH0054,Refrigerated Truck,FU-4584-ZD,CNG,5000,2022,WH002,Elizabeth Roy,DL-12833372,In Maintenance
+VEH0055,Trailer,AV-1885-ZA,Electric,1000,2019,WH001,Elizabeth Sanchez,DL-97150666,Active
+VEH0056,Truck-Small,VX-2670-HT,Electric,1000,2025,WH013,Shawn Vasquez,DL-69366343,Active
+VEH0057,Truck-Large,MU-9252-LY,Petrol,20000,2017,WH006,Ashlee Miller,DL-02867120,Idle
+VEH0058,Trailer,IS-0720-XR,CNG,2500,2021,WH011,Samantha Howard,DL-91024510,Active
+VEH0059,Truck-Large,AM-9109-YK,CNG,10000,2015,WH012,Samantha Henry,DL-49498194,Idle
+VEH0060,Truck-Large,QK-2179-PX,CNG,20000,2021,WH007,Anne Obrien,DL-40652775,Active
